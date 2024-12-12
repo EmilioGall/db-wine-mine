@@ -1,10 +1,6 @@
-Based on the structure and content from the repository, here's the `README.md` for the **db-wine-mine** project:
+# DB Wine
 
----
-
-# db-wine-mine
-
-The **db-wine-mine** project is a database-driven application designed for managing wine-related data. It provides a robust system to track wine collections, vineyard details, and other related information using a MySQL database, integrated with Laravel for backend management.
+The **DB Wine** is a database-driven application designed for managing wine-related data. It provides a robust system to track wine collections, vineyard details, and other related information using a MySQL database, integrated with Laravel for backend management.
 
 ## Table of Contents
 
